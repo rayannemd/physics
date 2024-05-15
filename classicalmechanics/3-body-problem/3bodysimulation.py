@@ -9,7 +9,7 @@ m3 = 1  # pode variar
 v1 = 0.39295
 v2 = 0.09758
 
-# constantes
+# condicoes iniciais
 m1 = 1
 m2 = 1
 m3 = m3
@@ -19,8 +19,6 @@ x2_0 = 0.5
 y2_0 = 0
 x3_0 = 0
 y3_0 = 0
-
-# condicoes iniciais
 vx1_0 = v1
 vy1_0 = v2
 vx2_0 = v1
